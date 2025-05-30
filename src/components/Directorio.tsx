@@ -1,16 +1,14 @@
-
-
 function Directorio() {
   return (
     <>
-    <div className="bg-blue-950 py-0.5"><h1 className="text-center text-4xl font-bold my-5 text-white">Directorio de Autoridades del Ministerio de la Mujer</h1></div>
+    <div className="bg-blue-950 py-0.5 px-2"><h1 className="text-center text-4xl font-bold my-5 text-white">Directorio de Autoridades del Ministerio de la Mujer</h1></div>
     <div className="flex justify-center">
       <div className="max-w-4xl">
 
     &nbsp;
     <div className="flex flex-col items-center justify-center mb-4">
         <h3 className=" font-bold text-xl mt-5">MINISTRA DE LA MUJER</h3>
-<p className="text-center"><a href="https://mujer.portales-dev.ogtic.gob.do/acerca-de-la-institucion/directorio-de-autoridades-y-direcciones/prueba">
+<p className="text-center"><a href="https://www.mujer.gob.do/index.php/directorio/item/1331-mayra-jimenez-ministra-de-la-mujer">
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Mayra%20Jimenez.jpg" alt="Mayra Jiménez" width="200" /></a></p>
 
     </div>
@@ -67,12 +65,21 @@ function Directorio() {
 <hr />
 
 <h4  className=" font-bold text-xl my-4">DIRECCIÓN DE PLANIFICACIÓN Y DESARROLLO</h4>
+
+
+<a href="https://mujer.gob.do/index.php/directorio/item/752-esminia-jimenez-abud">
+<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/Esminia-Jimenez.jpg" alt="Esminia Jimenez" width="200" /></a>
+
 <div className="w-xl">
 
 <div className="grid grid-cols-1 mb-5 md:grid-cols-3">
 
-<a href="https://mujer.gob.do/index.php/directorio/item/752-esminia-jimenez-abud"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/Esminia-Jimenez.jpg" alt="Esminia Jimenez" width="200" /></a>
-<a href="https://mujer.gob.do/index.php/directorio/item/1281-irania-castillo"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Estrategica/PlanificacionyDesarrollo/Irania-Castillo.jpg" width="200" /></a><a href="https://mujer.gob.do/index.php/directorio/item/1288-angelina-guillen"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Estrategica/PlanificacionyDesarrollo/Angelina_Guillen-1.jpg" width="200" /></a><a href="https://mujer.gob.do/index.php/directorio/item/1266-ambioris-casilla"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Estrategica/PlanificacionyDesarrollo/Ambioris-Casilla-1.jpg" width="200" /></a>
+<a href="https://mujer.gob.do/index.php/directorio/item/1281-irania-castillo">
+<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Estrategica/PlanificacionyDesarrollo/Irania-Castillo.jpg" width="200" /></a>
+<a href="https://mujer.gob.do/index.php/directorio/item/1288-angelina-guillen">
+<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Estrategica/PlanificacionyDesarrollo/Angelina_Guillen-1.jpg" width="200" /></a>
+<a href="https://mujer.gob.do/index.php/directorio/item/1266-ambioris-casilla">
+<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Estrategica/PlanificacionyDesarrollo/Ambioris-Casilla-1.jpg" width="200" /></a>
 
 </div>
 
@@ -80,27 +87,26 @@ function Directorio() {
 <hr />
 
 <h4  className=" font-bold text-xl my-5">DIRECCIÓN DE COMUNICACIÓN</h4>
-<div className="w-xl">
 
-<div className="grid grid-cols- 1 md:flex mb-5">
 <a href="https://mujer.gob.do/index.php/directorio/item/1334-carolina-acuna"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/Carolina_Acuna.jpg" alt="Carolina Acuña" width="200" /></a>
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Encargados/Itzel%20Valenzuela.jpg" alt="Itzel Valenzuela" width="200" />
-</div>
-</div>
+
 <hr />
 
 <h4  className=" font-bold text-xl my-5">DIRECCIÓN DE RELACIONES INTERNACIONALES</h4>
-<a href="https://mujer.gob.do/index.php/directorio/item/1286-lucy-rosemarys-santana">
-<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/Lucy-santana.jpg" width="200" /></a>
+
 
 <hr />
 
 <h4  className=" font-bold text-xl my-5">DIRECCIÓN PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA</h4>
-<div className="w-xl">
 
-<div className="grid grid-cols-1 mb-5 md:grid-cols-3">
 <a href="https://mujer.gob.do/index.php/directorio/item/1078-jesica-croce">
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/Jesica-Croce.jpg" alt="Jesica Croce" width="200" /></a>
+
+<div className="w-3xl">
+
+<div className="grid grid-cols-1 mb-5 md:grid-cols-4 w-full">
+
 <a href="https://mujer.gob.do/index.php/directorio/item/1255-cintia-drullard">
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Sustantivas/AtencionViolencia/Cintia-Drullard.jpg" width="200" /></a>
 <a href="https://mujer.gob.do/index.php/directorio/item/1269-yadhira-nunez">
@@ -113,11 +119,13 @@ function Directorio() {
 <hr />
 
 <h4  className=" font-bold text-xl my-5">DIRECCIÓN DE TRANSVERSALIDAD PARA LA IGUALDAD</h4>
+
+<a href="https://mujer.gob.do/index.php/directorio/item/1087-rosa-matos">
+<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/rosa-matos.jpg" alt="Rosa Matos" width="200" /></a>
 <div className="w-xl">
 
 <div className="grid grid-cols-1 mb-5 md:grid-cols-3">
-<a href="https://mujer.gob.do/index.php/directorio/item/1087-rosa-matos">
-<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/rosa-matos.jpg" alt="Rosa Matos" width="200" /></a>
+
 <a href="https://mujer.gob.do/index.php/directorio/item/1283-melina-zaiz"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Sustantivas/Transversalidad/Melina-zaiz.jpg" width="200" /></a> 
 <a href="https://mujer.gob.do/index.php/directorio/item/1295-maripilis-florentino"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Sustantivas/Transversalidad/Maripilis-florentino.jpg" width="200" /></a>
 </div>
@@ -125,13 +133,13 @@ function Directorio() {
 <hr />
 
 <h4  className=" font-bold text-xl my-5">DIRECCIÓN DE DERECHOS INTEGRALES DE LA MUJER</h4>
+
+<a href=""><img src="img/Carolina.png" width="180" /></a> 
+
 <div className="w-xl">
 
 <div className="grid grid-cols-1 mb-5 md:grid-cols-3">
-<a href="https://mujer.gob.do/index.php/directorio/item/1330-miguelina-ramirez-kelly">
-<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Sustantivas/DerechosIntegrales/Miguelina-ramirez.jpg" alt="Miguelina Ramírez" width="200" />
-</a>
-<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Encargados/Hulda%20zorrilla.jpg" width="200" />
+
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Encargados/Ninoska%20Mateo.jpg" width="200" /><a href="https://mujer.gob.do/index.php/directorio/item/1296-tania-hernandez-estevez"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Sustantivas/DerechosIntegrales/tania-hernandez.jpg" width="200" /></a>
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Encargados/Danelis%20Zorrilla.jpg" width="200" />
 
@@ -139,9 +147,11 @@ function Directorio() {
 </div>
 <hr />
 
-<h4  className=" font-bold text-xl">DIRECCIÓN DE EDUCACIÓN EN GÉNERO</h4>
+<h4  className=" font-bold text-xl my-5">DIRECCIÓN DE EDUCACIÓN EN GÉNERO</h4>
 <div className="w-xl">
-
+<a href="https://mujer.gob.do/index.php/directorio/item/1330-miguelina-ramirez-kelly">
+<img src="img/Migueline.png" alt="Miguelina Ramírez" width="200" />
+</a>
 <div className="grid grid-cols-1 mb-5 md:grid-cols-3">
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Sustantivas/EducacionGenero/Mariel-olivo.jpg" width="200" />
  <a href="https://mujer.gob.do/index.php/directorio/item/1356-esther-noemi-estevez-piron"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Sustantivas/EducacionGenero/Esther-Est%C3%A9vez.jpg" width="200" /></a>
@@ -153,9 +163,11 @@ function Directorio() {
 <h4  className=" font-bold text-xl">DIRECCIÓN FINANCIERA</h4>
 <div className="w-xl">
 
-<div className="grid grid-cols-1 mb-5 md:grid-cols-3">
+
 <a href="https://mujer.gob.do/index.php/directorio/item/621-feliz-ramirez">
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/Felix-Ramirez.jpg" alt="Felix de Jesus" width="200" /></a>
+
+<div className="grid grid-cols-1 mb-5 md:grid-cols-3">
 <a href="https://mujer.gob.do/index.php/directorio/item/1291-maria-altagracia-contreras-contreras">
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Apoyo/Financiera/Maria-Contrera.jpg" width="200" /></a>
  <a href="https://mujer.gob.do/index.php/directorio/item/1290-odalis-soriano-de-taveras">
@@ -166,11 +178,13 @@ function Directorio() {
 <hr />
 
 <h4 className=" font-bold text-xl my-5">DIRECCIÓN ADMINISTRATIVA</h4>
-<div className="w-xl">
+<div className="w-4xl">
 
-<div className="grid grid-cols-1 mb-5 md:grid-cols-3">
+
 <a href="https://mujer.gob.do/index.php/directorio/item/1256-veronica-rodriguez">
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/veronica.jpg" width="200" /></a>
+<div className="grid grid-cols-1 mb-5 md:grid-cols-4">
+
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Apoyo/Administrativa/Bacilia%20Lorenzo%20Quezada-1.jpg" width="200" />
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Apoyo/Administrativa/eduardo.jpg" width="200" /> 
 <img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Apoyo/Administrativa/guadalupe%20diaz.jpg" width="200" /> 
@@ -183,15 +197,7 @@ function Directorio() {
 </div>
 <hr />
 
-<h4 className=" font-bold text-xl my-5">DIRECCIÓN DE COMUNICACIÓN</h4>
-<div className="w-xl">
 
-<div className="grid grid-cols-1 mb-5 md:grid-cols-3">
-<a href="https://mujer.gob.do/index.php/directorio/item/1334-carolina-acuna"><img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Direc/Carolina_Acuna.jpg" alt="Carolina Acuña" width="200" /></a>
-<img src="https://mujer.gob.do/images/Directorio_Funcionarios/Fotos2024/Encargados/Itzel%20Valenzuela.jpg" alt="Itzel Valenzuela" width="200" />
-</div>
-</div>
-<hr />
 
 <h4 className=" font-bold text-xl my-5">DIRECCIÓN JURÍDICA</h4>
 <div className="w-xl">
